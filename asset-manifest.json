@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.95bfacc2.css",
-    "main.js": "/static/js/main.b70e8bbe.js",
-    "static/js/787.27213393.chunk.js": "/static/js/787.27213393.chunk.js",
-    "static/media/img1.jpg": "/static/media/img1.8b55aaf115ddac3259b8.jpg",
-    "static/media/img2.jpg": "/static/media/img2.c8f24e5dcfda8a5763d4.jpg",
-    "static/media/img3.jpg": "/static/media/img3.75956f9dced97aac9690.jpg",
-    "static/media/hero.jpg": "/static/media/hero.9bdcbdbcf3f529390ce8.jpg",
-    "index.html": "/index.html",
-    "main.95bfacc2.css.map": "/static/css/main.95bfacc2.css.map",
-    "main.b70e8bbe.js.map": "/static/js/main.b70e8bbe.js.map",
-    "787.27213393.chunk.js.map": "/static/js/787.27213393.chunk.js.map"
+    "main.css": "/eshanhaque-portofolio/static/css/main.95bfacc2.css",
+    "main.js": "/eshanhaque-portofolio/static/js/main.27b5ae4a.js",
+    "static/js/787.27213393.chunk.js": "/eshanhaque-portofolio/static/js/787.27213393.chunk.js",
+    "static/media/img1.jpg": "/eshanhaque-portofolio/static/media/img1.8b55aaf115ddac3259b8.jpg",
+    "static/media/img2.jpg": "/eshanhaque-portofolio/static/media/img2.c8f24e5dcfda8a5763d4.jpg",
+    "static/media/img3.jpg": "/eshanhaque-portofolio/static/media/img3.75956f9dced97aac9690.jpg",
+    "static/media/hero.jpg": "/eshanhaque-portofolio/static/media/hero.9bdcbdbcf3f529390ce8.jpg",
+    "index.html": "/eshanhaque-portofolio/index.html",
+    "main.95bfacc2.css.map": "/eshanhaque-portofolio/static/css/main.95bfacc2.css.map",
+    "main.27b5ae4a.js.map": "/eshanhaque-portofolio/static/js/main.27b5ae4a.js.map",
+    "787.27213393.chunk.js.map": "/eshanhaque-portofolio/static/js/787.27213393.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95bfacc2.css",
-    "static/js/main.b70e8bbe.js"
+    "static/js/main.27b5ae4a.js"
   ]
 }
